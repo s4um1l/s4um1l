@@ -37,9 +37,7 @@ Subscribe to my newsletter for insights on AI implementation, engineering leader
 - 🌐 [Website](https://saumilsrivastava.ai/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saumilsrivastava/)
 
-### 📚 Latest Articles
 
-[Coming soon - will be populated with your blog posts]
 
 ---
 
