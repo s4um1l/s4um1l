@@ -6,7 +6,7 @@
 
 ### Stay Updated
 
-Subscribe to my newsletter for insights on production AI systems, engineering leadership, and practical strategies for building reliable ML at scale.
+Subscribe to my newsletter for insights on production AI systems, engineering leadership, and practical strategies for building reliable AI at scale.
 
 [![Newsletter Signup](https://img.shields.io/badge/Subscribe_to_Newsletter-blue?style=for-the-badge)](https://www.saumilsrivastava.ai/newsletter)
 
