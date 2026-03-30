@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saumil Srivastava
 
-## Staff/Principal AI & ML Engineer
+## Principal/Staff AI & ML Engineer
 
 12+ years building production AI/ML systems at scale. 8 years at Intuit shipping tax intelligence, CTO of an internal venture (0-to-GA in 9 months), and identity migration across 100+ microservices. Open to Principal/Staff+ AI Engineering roles in Canada.
 
